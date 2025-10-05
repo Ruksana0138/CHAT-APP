@@ -6,7 +6,7 @@ import { addMessage, clearMessages } from '../redux/slices/chatSlice'
 import mob from '../assets/mob.png'
 import { useRef } from 'react'
 
-const socket = io("https://socket-io-chatapp-backend-1.onrender.com")
+const socket = io("https://chat-app-backend-n15u.onrender.com")
 function ChatApp() {
     const { messages } = useSelector(state => state.chatReducer)
     const dispatch = useDispatch()
