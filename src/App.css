@@ -1,0 +1,9 @@
+@import "tailwindcss";
+body{
+  background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1076601-AccordionBackground-1600x1052?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3998&hei=2629&qlt=100&fit=constrain");
+}
+.chat-box{
+  background-image: url("https://wallpapers.com/images/featured/aesthetic-flower-0mkq5wymu4fii74l.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
